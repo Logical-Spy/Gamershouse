@@ -1,0 +1,19 @@
+
+.text{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.6;
+    color: #C4C5C5;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.cardWrapper{  
+    composes : cardWrapper from '../../App.module.css';
+}
+.bottomlink{
+    margin-top: 20px;
+}
+.hasinvite{
+    color: #0761c8;
+
+}
